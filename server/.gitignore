@@ -51,8 +51,7 @@ build/
 # Yarn Integrity file
 .yarn-integrity
 
-# dotenv environment variables file
-.env
+
 
 # Server-side environment file
 .env.server
